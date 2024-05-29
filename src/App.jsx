@@ -1,10 +1,10 @@
 import "./App.css";
-import FormWithController from "./components/FormWithController/FormWithController";
+import FormWithAntDesign from "./components/FormWithAntDesign/FormWithAntDesign";
 
 function App() {
   return (
     <div>
-      <FormWithController />
+      <FormWithAntDesign />
     </div>
   );
 }
